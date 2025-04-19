@@ -1,2 +1,1 @@
-# criando-validador-bandeiras-cartao-credito-github-copilot
-Projeto feito durante o bootcamp XP Inc. - Cloud com Inteligência Artificial na Dio: Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot
+"Este repositório contém um projeto focado no desenvolvimento de uma aplicação simples para identificar a bandeira de cartões de crédito, como Visa, MasterCard, entre outros, a partir do número do cartão. Durante o processo, utilizamos o GitHub Copilot como assistente de codificação, demonstrando como a inteligência artificial pode otimizar o desenvolvimento, sugerir trechos de código e aumentar significativamente a produtividade."
